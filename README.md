@@ -11,9 +11,9 @@ mimik Client Library for iOS provides a programmatic way to work with the mimOE 
 
 ## Overview
 
-The purpose of the **mimik Client Library for iOS** is to provide a programmatic way to work with the mimOE Runtime to access information about the mobile device on which the application is running, as well as mobile devices running within a cluster of mobile devices that are hosting the mimOE Runtime. Also, to allow developers to use edge microservices running within a particular cluster.
+A Cloud-native Operating Environment that accelerates the integration of AI agents into solutions by bringing advanced capabilities directly to endpoint devices.
 
-The **mimik Client Library for iOS suite** consists of these individual cocoapod components:
+The **mimik iOS suite** consists of these individual cocoapod components:
 
     - mimOE-SE-iOS (or mimOE-SE-iOS-developer)
     - EdgeCore
